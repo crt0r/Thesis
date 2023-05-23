@@ -1,0 +1,7 @@
+1. What Is DevOps? - https://www.atlassian.com/devops (23.05.2023)
+2. Что такое DevOps и зачем он нужен разработчикам - https://academy.yandex.ru/journal/chto-takoe-devops-i-zachem-on-nuzhen-razrabotchikam (23.05.2023)
+3. Гайд по DevOps для начинающих - https://habr.com/ru/companies/skillfactory/articles/509344/ (23.05.2023)
+4. Что такое жизненный цикл DevOps?  - https://unity.com/ru/solutions/devops-lifecycle (23.05.2023)
+5. DevOps Automation: How to Apply Automation Into Your Software Delivery Process - https://dzone.com/articles/devops-automation-how-to-apply-automation-into-you (23.05.2023)
+6. State of DevOps Report - https://www.puppet.com/system/files/report-pup-2021-state-of-devops.pdf (23.05.2023)
+7. What is GitOps? - https://about.gitlab.com/topics/gitops/ (23.05.2023)
